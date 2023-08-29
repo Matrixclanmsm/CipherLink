@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d7b3dca.css",
+    "main.js": "/static/js/main.a8247264.js",
+    "static/media/moon-light-ride-4k-e3-2048x1152.jpg": "/static/media/moon-light-ride-4k-e3-2048x1152.0ba6f124b6a0768a9db2.jpg",
+    "index.html": "/index.html",
+    "main.2d7b3dca.css.map": "/static/css/main.2d7b3dca.css.map",
+    "main.a8247264.js.map": "/static/js/main.a8247264.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d7b3dca.css",
+    "static/js/main.a8247264.js"
+  ]
+}
